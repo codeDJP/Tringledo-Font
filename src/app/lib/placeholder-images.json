@@ -1,0 +1,11 @@
+
+{
+  "placeholderImages": [
+    {
+      "id": "hero-abstract",
+      "description": "Abstract typography background",
+      "imageUrl": "https://picsum.photos/seed/font-hero/1200/600",
+      "imageHint": "abstract typography"
+    }
+  ]
+}
